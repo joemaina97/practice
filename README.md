@@ -1,2 +1,1 @@
-# practice
-practice session
+This is my first readme
